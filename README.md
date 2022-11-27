@@ -1,6 +1,6 @@
 # Find Your Duo - NLW eSports
 
-A backend project developed during the NLW eSports event held by Rocketseat.
+A API REST developed during the NLW eSports event held by Rocketseat.
 
 ## Available Scripts
 
